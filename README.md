@@ -74,8 +74,9 @@
 
 ### 代码
 <div align="center">
-<img src="./README.assets/代码" alt="代码" style="align:center;width: 90%; border-radius: 10px; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);"  />
+<img src="./README.assets/代码.png" alt="代码" style="align:center;width: 90%; border-radius: 10px; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);"  />
 </div>
+
 
 
 ### 表格
