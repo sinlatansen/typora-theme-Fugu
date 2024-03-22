@@ -8,13 +8,16 @@
 <p><strong>Fugu</strong>是基于<a href="https://github.com/YiNNx/typora-theme-lapis">YiNNx/typora-theme-lapis</a>的一款<strong>Typora</strong>主题。</p>
 </div>
 
-<img src="./README.assets/image-20240322220055387.png" alt="image-20240322220055387" style="width: 90%; border-radius: 10px; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);" />
+
+<img src="./README.assets/总览.png" alt="总览" style="align:center;align:center;width: 90%; border-radius: 10px; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);" />
 
 
 
 
 
 ## 简介
+
+完整的演示PDF点[这里](./演示.pdf)。
 
 目前只实现了浅色主题。
 
@@ -40,52 +43,52 @@
 
 ### 标题
 
-<img src="./README.assets/image-20240322214551913.png" alt="image-20240322214551913" style="width: 90%; border-radius: 10px; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);"  />
+<img src="./README.assets/标题.png" alt="标题" style="align:center;width: 90%; border-radius: 10px; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);"  />
 
 
 
 ### 分割线
 
-<img src="./README.assets/image-20240322214612276.png" alt="image-20240322214612276" style="width: 90%; border-radius: 10px; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);"  />
+<img src="./README.assets/分割线.png" alt="分割线" style="align:center;width: 90%; border-radius: 10px; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);"  />
 
 
 
 ### 强调
 
-<img src="./README.assets/image-20240322214639409.png" alt="image-20240322214639409" style="width: 90%; border-radius: 10px; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);"  />
+<img src="./README.assets/强调.png" alt="强调" style="align:center;width: 90%; border-radius: 10px; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);"  />
 
 
 
 ### 引用块
 
-<img src="./README.assets/image-20240322214704105.png" alt="image-20240322214704105" style="width: 90%; border-radius: 10px; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);"  />
+<img src="./README.assets/引用块.png" alt="引用块" style="align:center;width: 90%; border-radius: 10px; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);"  />
 
 
 
 ### 列表
 
-<img src="./README.assets/image-20240322214726002.png" alt="image-20240322214726002" style="width: 90%; border-radius: 10px; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);"  />
+<img src="./README.assets/列表.png" alt="列表" style="align:center;width: 90%; border-radius: 10px; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);"  />
 
 
 
 ### 代码
 
-<img src="./README.assets/image-20240322214854220.png" alt="image-20240322214854220" style="width: 90%; border-radius: 10px; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);"  />
+<img src="./README.assets/代码" alt="代码" style="align:center;width: 90%; border-radius: 10px; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);"  />
 
 
 
 ### 表格
 
-<img src="./README.assets/image-20240322214927419.png" alt="image-20240322214927419"  style="width: 90%; border-radius: 10px; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);" />
+<img src="./README.assets/表格.png" alt="表格"  style="align:center;width: 90%; border-radius: 10px; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);" />
 
 
 
 ### 链接
 
-<img src="./README.assets/image-20240322215000805.png" alt="image-20240322215000805"  style="width: 90%; border-radius: 10px; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);" />
+<img src="./README.assets/链接.png" alt="链接"  style="align:center;width: 90%; border-radius: 10px; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);" />
 
 
 
 ### 插件支持
 
-<img src="/Users/lzy/workspace/web/typora-theme-Fugu/README.assets/image-20240322215112732.png" alt="image-20240322215112732" style="width: 90%; border-radius: 10px; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);" />
+<img src="./README.assets/插件.png" alt="插件" style="align:center;width: 90%; border-radius: 10px; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);" />
