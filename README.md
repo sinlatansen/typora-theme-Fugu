@@ -6,10 +6,11 @@
 
 <div align="center">
 <p><strong>Fugu</strong>是基于<a href="https://github.com/YiNNx/typora-theme-lapis">YiNNx/typora-theme-lapis</a>的一款<strong>Typora</strong>主题。</p>
+<img src="./README.assets/总览.png" alt="总览" style="width: 90%; border-radius: 10px; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);" />
 </div>
 
 
-<img src="./README.assets/总览.png" alt="总览" style="align:center;align:center;width: 90%; border-radius: 10px; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);" />
+
 
 
 
@@ -42,53 +43,54 @@
 ## 预览
 
 ### 标题
-
+<div align="center">
 <img src="./README.assets/标题.png" alt="标题" style="align:center;width: 90%; border-radius: 10px; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);"  />
-
+</div>
 
 
 ### 分割线
-
+<div align="center">
 <img src="./README.assets/分割线.png" alt="分割线" style="align:center;width: 90%; border-radius: 10px; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);"  />
-
+</div>
 
 
 ### 强调
-
+<div align="center">
 <img src="./README.assets/强调.png" alt="强调" style="align:center;width: 90%; border-radius: 10px; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);"  />
-
+</div>
 
 
 ### 引用块
-
+<div align="center">
 <img src="./README.assets/引用块.png" alt="引用块" style="align:center;width: 90%; border-radius: 10px; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);"  />
-
+</div>
 
 
 ### 列表
-
+<div align="center">
 <img src="./README.assets/列表.png" alt="列表" style="align:center;width: 90%; border-radius: 10px; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);"  />
-
+</div>
 
 
 ### 代码
-
+<div align="center">
 <img src="./README.assets/代码" alt="代码" style="align:center;width: 90%; border-radius: 10px; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);"  />
-
+</div>
 
 
 ### 表格
-
+<div align="center">
 <img src="./README.assets/表格.png" alt="表格"  style="align:center;width: 90%; border-radius: 10px; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);" />
-
+</div>
 
 
 ### 链接
-
+<div align="center">
 <img src="./README.assets/链接.png" alt="链接"  style="align:center;width: 90%; border-radius: 10px; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);" />
-
+</div>
 
 
 ### 插件支持
-
+<div align="center">
 <img src="./README.assets/插件.png" alt="插件" style="align:center;width: 90%; border-radius: 10px; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);" />
+</div>
