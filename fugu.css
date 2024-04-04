@@ -230,11 +230,11 @@ mark {
  * Header
  */
 
-#write h4,
+/* #write h4,
 #write h5,
 #write h6 {
   font-weight: normal;
-}
+} */
 
 #write h1,
 #write h2,
