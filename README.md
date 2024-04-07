@@ -29,7 +29,7 @@
 
 ## 用法
 
-下载后将`fugu.css`和`fugu`文件夹放到**typora**主题目录下，即可启用。
+下载后将`fugu.css`和`fugu`文件夹放到 **typora** 主题目录下，即可启用。
 
 > fugu.css 为主题，fugu 文件夹下主要是字体。
 
@@ -88,3 +88,11 @@
 <div align="center">
 <img src="./README.assets/插件.png" alt="插件" style="align:center;width: 90%; border-radius: 10px; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);" />
 </div>
+
+
+# 更新日志
+
+## 2024.04.07
+
+- 修复了 mac 端界面错乱 bug 。
+- 将代码块内中文字体设置为了**落霞文楷等宽**。
